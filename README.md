@@ -1,10 +1,12 @@
 # sysMonGauge
 Fancy System Monitoring Gauge
 
+![Front profile view of the panel](img/demo.gif)
+
 ## Building
 The panel is designed to be printed using a standard FDM 3D printer (hence the funky split down the middle), but it would probably be better if you used a laser cutter or CNC router to cut the panel out of plastic or wood.
 
-The rods were machined out of aluminium bar stock, but M6 threaded rod would work just as well.
+The rods were machined out of aluminium bar stock, but M8 threaded rod would work just as well.
 
 I build the circuit on perf-board, but PCB files are included.
 
@@ -16,8 +18,8 @@ The dials were printed out onto self-adhesive paper and trimmed around the exist
 <summary>Parts list</summary>
 
 ### Hardware
-- 3x 360mm M6 threaded rod
-- 12x M6 nuts
+- 3x 360mm M8 threaded rod
+- 12x M8 nuts
 - 8x M3 hex-head screw (to attach the panel to the wings)
 - 8x M2 hex-head screws and nuts (to attach the 7 segment displays)
 - Lots of glue and zip-ties ;)
